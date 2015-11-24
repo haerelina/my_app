@@ -1,2 +1,2 @@
 # my_app
-  a simple meteor demo app.
+  A simple meteor demo app.
